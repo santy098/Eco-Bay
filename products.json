@@ -1,0 +1,201 @@
+[
+  {
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81qiNXd2fGL._AC_UY741_.jpg",
+    "name": "U.S. Polo Assn.",
+    "combinedRating": 4.5,
+
+    "shortDesc": "Tailored Fit Linen Shirt",
+    "OrigPrice": "2,619",
+
+    "DiscountPrice": "1,699",
+    "discountPercentage": "40%",
+    "longDesc": {
+      "recycleScore": 3,
+      "ecoRating": true,
+      "productLink": "https://www.amazon.com/U-S-Polo-Assn-Small-T-Shirt/dp/B00AO1GGWQ/ref=sr_1_7?dchild=1&keywords=USPA+mens+shirt&qid=1624019122&sr=8-7",
+      "discountDetails": "This product is already at its best price",
+      "exchangeDtls": "Easy 30 days return and exchange",
+      "sizeDetails": [
+        {
+          "30": "Garment Measurement: Chest 39.5 in"
+        },
+        {
+          "40": "Garment Measurement: Chest 40.5 in"
+        },
+        {
+          "42": "Garment Measurement: Chest 41.5 in"
+        },
+        {
+          "44": "Garment Measurement: Chest 42.5 in"
+        },
+        {
+          "46": "Garment Measurement: Chest 43.5 in"
+        }
+      ],
+      "seller": "Supercom Net",
+      "details": [
+        {
+          "productDetails": "Red and Navny blue printed casual shirt"
+        },
+        {
+          "Size & Fit": "Tailored Fit"
+        },
+        {
+          "Material & Care": "65% linen 35% cotton"
+        },
+        {
+          "Style note": "Add this well-designed shirt from U.S. Polo Assn. to your wardrobe and stay warm all year long"
+        }
+      ]
+    }
+  },
+  {
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71bdgYfofhL._UL1500_.jpg",
+    "name": "Mammon Women's Handbags Combo (Set of 3)",
+    "combinedRating": 2.5,
+
+    "shortDesc": "Women's PU Handbags",
+    "OrigPrice": "3,499",
+    "DiscountPrice": "589",
+    "discountPercentage": "83%",
+
+    "longDesc": {
+      "recycleScore": 6,
+      "productLink": "https://www.amazon.com/U-S-Polo-Assn-Small-T-Shirt/dp/B00AO1GGWQ/ref=sr_1_7?dchild=1&keywords=USPA+mens+shirt&qid=1624019122&sr=8-7",
+      "ecoRating": false,
+      "discountDetails": "This product is already at its best price",
+      "exchangeDtls": "Easy 30 days return and exchange",
+      "sizeDetails": [
+        {
+          "30": "Garment Measurement: Chest 39.5 in"
+        },
+        {
+          "40": "Garment Measurement: Chest 40.5 in"
+        },
+        {
+          "42": "Garment Measurement: Chest 41.5 in"
+        },
+        {
+          "44": "Garment Measurement: Chest 42.5 in"
+        },
+        {
+          "46": "Garment Measurement: Chest 43.5 in"
+        }
+      ],
+      "seller": "Supercom Net",
+      "details": [
+        {
+          "productDetails": "Handbags: One Main compartment with top Zip closure.Latest handbags for ladies By 'Mammon'"
+        },
+        {
+          "Size & Fit": "Tailored Fit"
+        },
+        {
+          "Material & Care": "Polyurethane Leather"
+        },
+        {
+          "Style note": "Add this well-designed shirt from U.S. Polo Assn. to your wardrobe and stay warm all year long"
+        }
+      ]
+    }
+  },
+  {
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71cFPc3bbEL._UL1500_.jpg",
+    "name": "Paragon Women's Tan Footwear",
+    "combinedRating": 3,
+    "shortDesc": "Women's Footwear",
+    "OrigPrice": "599",
+    "DiscountPrice": "251",
+    "discountPercentage": "60%",
+
+    "longDesc": {
+      "recycleScore": 5,
+      "productLink": "https://www.amazon.com/U-S-Polo-Assn-Small-T-Shirt/dp/B00AO1GGWQ/ref=sr_1_7?dchild=1&keywords=USPA+mens+shirt&qid=1624019122&sr=8-7",
+      "ecoRating": false,
+      "discountDetails": "This product is already at its best price",
+      "exchangeDtls": "Easy 30 days return and exchange",
+      "sizeDetails": [
+        {
+          "30": "Garment Measurement: Chest 39.5 in"
+        },
+        {
+          "40": "Garment Measurement: Chest 40.5 in"
+        },
+        {
+          "42": "Garment Measurement: Chest 41.5 in"
+        },
+        {
+          "44": "Garment Measurement: Chest 42.5 in"
+        },
+        {
+          "46": "Garment Measurement: Chest 43.5 in"
+        }
+      ],
+      "seller": "Supercom Net",
+      "details": [
+        {
+          "productDetails": "Solea 7859 by Paragon are black casual sandals for women with a front strap and a velcro buckle at the ankle."
+        },
+        {
+          "Size & Fit": "Tailored Fit"
+        },
+        {
+          "Material & Care": "Paragon Polymer Products Pvt Ltd"
+        },
+        {
+          "Style note": "Allow your pair of shoes to air and de-odorize at regular basis; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth; do not use polish or shiner"
+        }
+      ]
+    }
+  },
+  {
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71Z0j3wM9OL._SL1500_.jpg",
+    "name": "Milton Plastic Multi-Purpose Box",
+    "combinedRating": 1,
+
+    "shortDesc": "Multipurpose box keeps it all in one place and easy to access",
+    "OrigPrice": "290",
+    "DiscountPrice": "240",
+    "discountPercentage": "15%",
+
+    "longDesc": {
+      "recycleScore": 5,
+      "productLink": "https://www.amazon.com/U-S-Polo-Assn-Small-T-Shirt/dp/B00AO1GGWQ/ref=sr_1_7?dchild=1&keywords=USPA+mens+shirt&qid=1624019122&sr=8-7",
+      "ecoRating": false,
+      "discountDetails": "This product is already at its best price",
+      "exchangeDtls": "Easy 30 days return and exchange",
+      "sizeDetails": [
+        {
+          "30": "Garment Measurement: Chest 39.5 in"
+        },
+        {
+          "40": "Garment Measurement: Chest 40.5 in"
+        },
+        {
+          "42": "Garment Measurement: Chest 41.5 in"
+        },
+        {
+          "44": "Garment Measurement: Chest 42.5 in"
+        },
+        {
+          "46": "Garment Measurement: Chest 43.5 in"
+        }
+      ],
+      "seller": "Supercom Net",
+      "details": [
+        {
+          "productDetails": "Made of High Durable and Strong Quality Plastic for Long term use"
+        },
+        {
+          "Size & Fit": "Tailored Fit"
+        },
+        {
+          "Material & Care": "Plastic"
+        },
+        {
+          "Style note": "Made of High Durable and Strong Quality Plastic for Long term use. Compact shape, light weight"
+        }
+      ]
+    }
+  }
+]
