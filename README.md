@@ -18,8 +18,11 @@ The general population need to be aware of the choices they make and the effect 
 To create awareness among the people, there needs to be more details about the carbon-footprint of the products they buy online. By aggregating and analyzing product data we can deduct the eco-friendliness of these products 
 When given an option, people naturally tend to choose the eco-friendly product. so our idea is to enable them to do it.
 ### Video
+https://youtu.be/O91xhtCCo3k
+
 
 ## The architecture
+![image](https://user-images.githubusercontent.com/49270259/122597023-62675180-d088-11eb-8fa8-8394c6b058e2.png)
 
 1. As we enable users choose eco-friendly products, we chose flutter for our development to reduce the computing power needed, as it is a cross platform UI framework.
 2. User uses the app to find products online. 
