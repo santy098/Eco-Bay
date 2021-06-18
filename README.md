@@ -21,13 +21,13 @@ When given an option, people naturally tend to choose the eco-friendly product. 
 
 ## The architecture
 
-1.As we enable users choose eco-friendly products, we chose flutter for our development to reduce the computing power needed, as it is a cross platform UI framework.
-2.User uses the app to find products online. 
-3.The app fires NodeJs APIs to get product details.  
-4.NodeJs in turn triggers IBM Watson Natural Language Understanding classification model.  
-5.The model returns materials detected in the product description.  
-6.These materials will be fed into a multi-level classification to get a eco-score.  
-7.Based on this score, the model checks if the product is eco-friendly or not.
+1. As we enable users choose eco-friendly products, we chose flutter for our development to reduce the computing power needed, as it is a cross platform UI framework.
+2. User uses the app to find products online. 
+3. The app fires NodeJs APIs to get product details.  
+4. NodeJs in turn triggers IBM Watson Natural Language Understanding classification model.  
+5. The model returns materials detected in the product description.  
+6. These materials will be fed into a multi-level classification to get a eco-score.  
+7. Based on this score, the model checks if the product is eco-friendly or not.
 
 # Getting started
 ## Pre-requisites
