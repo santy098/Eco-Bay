@@ -17,8 +17,7 @@ The general population need to be aware of the choices they make and the effect 
 ### The Idea
 To create awareness among the people, there needs to be more details about the carbon-footprint of the products they buy online. By aggregating and analyzing product data we can deduct the eco-friendliness of these products 
 When given an option, people naturally tend to choose the eco-friendly product. so our idea is to enable them to do it.
-### Video
-https://youtu.be/O91xhtCCo3k
+
 
 
 ## The architecture
